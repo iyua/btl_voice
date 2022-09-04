@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <Response>
+<Say>Calling number</Say>
     <Dial>+14243107227</Dial>
 </Response>
