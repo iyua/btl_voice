@@ -1,9 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <Response>
-<Say voice="alice">
-We are the one to make it happen. Thanks for the call. Configure your number's voice U R L to change this message.
-</Say>
-<Pause length="3"/>
-<Say voice="alice">
-Let us know if we can help you in any way during your development.
-</Say>
+    <Dial>+14243107227</Dial>
 </Response>
